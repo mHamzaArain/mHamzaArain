@@ -20,8 +20,8 @@ You can contact me @
 [![Generic badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![Generic badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 ### Tools
-[![Generic badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Generic badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]() [![Generic badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]() 
+[![Generic badge](https://shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)]() [![Generic badge](https://shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)]()
 
 ### Databases
 [![Generic badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -33,5 +33,7 @@ You can contact me @
 
 [![Generic badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
-### Other
-[![Generic badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+
+<!-- [![Generic badge]()]()
+[![Generic badge]()]() -->
+
