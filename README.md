@@ -35,16 +35,6 @@ https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor
 <!-- kotlin
 https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white -->
 
-### Libraries
-[![Generic badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)]()
-[![Generic badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)]()
-
-
 ### Tools
 [![Generic badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]() [![Generic badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]() 
 [![Generic badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]() [![Generic badge](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
