@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hamza Arain
+### Hi there 👋 I'm Hamza Arain a Data Scientist
 
 Bachelor's of computer sciences student @UBIT, and an artificial intelligence enthusiast and smart working individual who love abstract relavent AI stuff.
 
