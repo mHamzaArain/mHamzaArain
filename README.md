@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hamza Arain a Data Scientist
 
-Bachelor's of computer sciences student @UBIT, and an artificial intelligence enthusiast and smart working individual who love abstract relavent AI stuff.
+Bachelor's of computer sciences student @UBIT, and an artificial intelligence enthusiast and smart working individual who loves to peek abstraction of AI relavent stuff.
 
 You can contact me @ hamzaarain1999@gmail.com
 
