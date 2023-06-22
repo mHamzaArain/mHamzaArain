@@ -21,7 +21,7 @@ Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in 
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-arain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashood-hussain-3805b5196" height="30" width="40" /></a>
 <a title="Hamza Arain" href="https://commons.wikimedia.org/wiki/File:Logo_of_Twitter.svg"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/40px-Logo_of_Twitter.svg.png" height="30" width="40"></a>
-<a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a>
+<a href="https://twitter.com/HamzaAr57706212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a>
 
 </p>
 
