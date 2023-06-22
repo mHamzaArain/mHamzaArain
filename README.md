@@ -12,30 +12,16 @@ Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in 
 
 - 💬 Ask me about **Machine learning, Deep Learning, Data Analytics, Automation and Data Engineering**
 
-- 📄 Know about my experiences [Deep Learning, Data Science, Machine learning and NLP] (Deep Learning, Data Science, Machine learning and NLP)
+- 📄 Know about my experiences **Deep Learning, Data Science, Machine learning and NLP**
 
 - ⚡ I possess the capacity to think and reason, drawing inspiration from the profound words of **Dr. Marcos Lopez de Prado**
 
 
-
-
-
-
-[![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-arain-856952177/)
-
-
-
-
-
-
-<!-- twitter
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white -->
-
-<!-- github
-	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white -->
-
-<!-- kaggle
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mashood-hussain-3805b5196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashood-hussain-3805b5196" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12777999/mashood-h?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a>
+</p>
 
 ---
 ## ⚡ Languages and Tools
