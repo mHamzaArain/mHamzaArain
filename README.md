@@ -20,9 +20,10 @@ Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-arain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashood-hussain-3805b5196" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a><a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://gist.github.com/wmora/5b08d76d27688a9f40c5#file-twitter-bird-svg" alt="user:12777999" height="30" width="40" /></a>
-</p>
+<a title="Hamza Arain" href="https://commons.wikimedia.org/wiki/File:Logo_of_Twitter.svg"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/40px-Logo_of_Twitter.svg.png" height="30" width="40"></a>
+<a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a>
 
+</p>
 
 ## ⚡ Languages and Tools
 
