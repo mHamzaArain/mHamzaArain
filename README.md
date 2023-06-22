@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Hamza Arain a Data Scientist
 
-Bachelor's of computer sciences student @UBIT, and an artificial intelligence enthusiast and smart working individual who loves to peek abstraction of AI relevent stuff.
+Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in real-world scenarios to enhance convenience, safety, and eliminate mundane tasks. My goal is to make our lives easier and more enjoyable through the power of intelligent technology.
 
-You can contact me @ hamzaarain1999@gmail.com
+Reach me out @ hamzaarain1999@gmail.com
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-arain-856952177/)
 <!-- twitter
