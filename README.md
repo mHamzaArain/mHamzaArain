@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hamza Arain a Data Scientist
+### 👋 I'm Hamza Arain
 
 Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in real-world scenarios to enhance convenience, safety, and eliminate mundane tasks. My goal is to make our lives easier and more enjoyable through the power of intelligent technology.
 
