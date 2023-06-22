@@ -20,7 +20,7 @@ Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-arain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashood-hussain-3805b5196" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a><a href="" target="blank"><img align="center" src="https://github.com/mHamzaArain/mHamzaArain/assets/44979074/6c1ca568-9366-4490-b88a-d6e8bcf12287" alt="user:12777999" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12777999" height="30" width="40" /></a><a href="https://stackoverflow.com/users/13227343/hamza-arain" target="blank"><img align="center" src="https://github.com/mHamzaArain/mHamzaArain/assets/44979074/6c1ca568-9366-4490-b88a-d6e8bcf12287" alt="user:12777999" height="30" width="40" /></a>
 </p>
 
 ---![twitter](https://github.com/mHamzaArain/mHamzaArain/assets/44979074/6c1ca568-9366-4490-b88a-d6e8bcf12287)
