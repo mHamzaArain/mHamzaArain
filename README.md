@@ -12,7 +12,7 @@ Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in 
 
 - 💬 Ask me about **Machine learning, Deep Learning, Data Analytics, Automation and Data Engineering**
 
-- 📄 Know about my experiences [Deep Learning, Data Science, Machine learning and NLP](Deep Learning, Data Science, Machine learning and NLP)
+- 📄 Know about my experiences [Deep Learning, Data Science, Machine learning and NLP] (Deep Learning, Data Science, Machine learning and NLP)
 
 - ⚡ I possess the capacity to think and reason, drawing inspiration from the profound words of **Dr. Marcos Lopez de Prado**
 
