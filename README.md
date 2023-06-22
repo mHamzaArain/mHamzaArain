@@ -2,9 +2,32 @@
 
 Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in real-world scenarios to enhance convenience, safety, and eliminate mundane tasks. My goal is to make our lives easier and more enjoyable through the power of intelligent technology.
 
-Reach me out @ hamzaarain1999@gmail.com
+- 📫 How to reach me **hamzaarain1999@gmail.com**
+
+- 🏆  In  Contributer on StackOverflow : [Profile](https://stackoverflow.com/users/13227343/hamza-arain)
+
+- 🔭 I’m currently working on **Financial AI and Generative AI**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@hamzaarain1999)
+
+- 💬 Ask me about **Machine learning, Deep Learning, Data Analytics, Automation and Data Engineering**
+
+- 📄 Know about my experiences [Deep Learning, Data Science, Machine learning and NLP](Deep Learning, Data Science, Machine learning and NLP)
+
+- ⚡ Fun fact **I think therefore I am :) Inspired from Rene Descartes**
+
+
+
+
+
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-arain-856952177/)
+
+
+
+
+
+
 <!-- twitter
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white -->
 
