@@ -4,7 +4,7 @@ Hi, I'm an Artificial Intelligence Enthusiast with a passion for applying AI in 
 
 - 📫 How to reach me **hamzaarain1999@gmail.com**
 
-//- 🏆  In  Contributer on StackOverflow : [Profile](https://stackoverflow.com/users/13227343/hamza-arain)
+<!-- 🏆  In  Contributer on StackOverflow : [Profile](https://stackoverflow.com/users/13227343/hamza-arain)-->
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@hamzaarain1999)
 
